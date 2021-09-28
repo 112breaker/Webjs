@@ -1,0 +1,37 @@
+
+.search {
+    float: left;
+    margin: 20px;
+    padding-left: 30px;
+    color: rgb(197, 26, 26);
+    font-size: 20px;
+  }
+  .search input[type="text"] {
+    border-radius: 100px;
+  }
+  ::placeholder {
+    color: rgb(161, 9, 9);
+  }
+
+.pro {
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
+}
+.top{
+    padding-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.cover{
+    border-radius: 300px;
+    min-height:70px;
+    min-width: 70px;
+    color:crimson;
+    background-color: darkblue;
+    font-size: large;
+
+}
+.cover:hover{
+    background-color: white;
+}
